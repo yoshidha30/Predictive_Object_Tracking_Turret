@@ -1,0 +1,14 @@
+Mode,Frame,Time_Seconds,Reactive_Angular_Error_Deg,Predictive_Angular_Error_Deg
+4,1,0.0167,15.0,10.0
+4,2,0.0333,14.5,9.5
+4,3,0.05,14.0,9.0
+
+SUMMARY_STATISTICS
+Mode,4,Mode 4: Circular Orbit
+Total_Frames,3
+Reactive_Mean_Error_Deg,14.5
+Predictive_Mean_Error_Deg,9.5
+Mean_Error_Reduction_Percent,34.48
+Reactive_RMSE_Deg,14.5057
+Predictive_RMSE_Deg,9.5088
+Export_Timestamp,2026-10-25T16:03:02.910266

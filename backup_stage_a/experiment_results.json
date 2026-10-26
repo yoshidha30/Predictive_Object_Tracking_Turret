@@ -1,0 +1,16 @@
+{
+    "1": {
+        "reactive_mean": 12.1643,
+        "predictive_mean": 8.4387,
+        "improvement": 30.63,
+        "frames": 1800,
+        "completed_at": "2026-10-14T16:58:28"
+    },
+    "2": {
+        "reactive_mean": 12.0593,
+        "predictive_mean": 8.6287,
+        "improvement": 28.45,
+        "frames": 1800,
+        "completed_at": "2026-10-14T16:05:14"
+    }
+}

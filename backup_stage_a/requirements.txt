@@ -1,0 +1,5 @@
+NumPy — numerical calculations.
+
+OpenCV — Kalman filtering and computer vision.
+
+Pygame — the simulation window and dashboard.

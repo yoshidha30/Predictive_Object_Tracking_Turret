@@ -1,0 +1,38 @@
+{
+    "1": {
+        "reactive_mean": 46.8048,
+        "predictive_mean": 43.3602,
+        "improvement": 7.36,
+        "reactive_rmse": 53.0283,
+        "predictive_rmse": 49.8809,
+        "frames": 1800,
+        "completed_at": "2026-10-25T21:15:53"
+    },
+    "2": {
+        "reactive_mean": 45.6731,
+        "predictive_mean": 37.2254,
+        "improvement": 18.5,
+        "reactive_rmse": 53.8985,
+        "predictive_rmse": 44.1298,
+        "frames": 1800,
+        "completed_at": "2026-10-25T21:06:47"
+    },
+    "3": {
+        "reactive_mean": 41.4143,
+        "predictive_mean": 39.6421,
+        "improvement": 4.28,
+        "reactive_rmse": 47.2699,
+        "predictive_rmse": 46.104,
+        "frames": 1800,
+        "completed_at": "2026-10-25T21:16:51"
+    },
+    "4": {
+        "reactive_mean": 14.5,
+        "predictive_mean": 9.5,
+        "improvement": 34.48,
+        "reactive_rmse": 14.5057,
+        "predictive_rmse": 9.5088,
+        "frames": 3,
+        "completed_at": "2026-10-26T22:22:52"
+    }
+}
